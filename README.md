@@ -1,9 +1,13 @@
 <div align="center">
 View your app :
-Local:   http://localhost:3000/
+   
+
+
 Network: http://172.16.2.22:3000/
    
    ## Run Locally
+Local:   http://localhost:3000/
+
 
 **Prerequisites:**  Node.js
 
