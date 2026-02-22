@@ -1,5 +1,5 @@
 <div align="center">
-View your app Locally: http://localhost:300
+View your app Locally:  http://localhost:3000
    
    ## Run Locally
 
