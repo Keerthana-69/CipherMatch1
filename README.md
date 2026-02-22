@@ -1,6 +1,7 @@
 <div align="center">
-View your app Locally: http://localhost:3000
-## Run Locally
+View your app Locally: http://localhost:300
+   
+   ## Run Locally
 
 **Prerequisites:**  Node.js
 
